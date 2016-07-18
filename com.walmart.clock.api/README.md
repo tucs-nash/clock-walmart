@@ -20,3 +20,7 @@ O projeto foi criado com as seguintes ferramentas e o motivo do uso:
 - Rodar o projeto
 
 	java -jar target/com.walmart.clock.api-0.0.1-SNAPSHOT.jar
+
+
+#Git Repository:
+	https://github.com/tucs-nash/clock-walmart.git
