@@ -1,4 +1,4 @@
-# logistics-walmart
+# clock-walmart
 
 O projeto foi criado com as seguintes ferramentas e o motivo do uso:
 
